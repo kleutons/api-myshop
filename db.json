@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "category": "some comment",
+      "name": "Smartphone XYZ",
+      "description": "A powerful and feature-rich smartphone.",
+      "regularPrice": 499.99,
+      "salePrice": 399.99,
+      "mainImg": "product_main_image.jpg",
+      "otherImgs": [
+        "product_image_01.jpg",
+        "product_image_02.jpg"
+      ],
+      "details": {
+        "texture": "Smooth",
+        "weight": "150g",
+        "size": "6.2 inches"
+      }
+
+    },
+    {
+      "id": 2,
+      "category": "some comment",
+      "name": "Smartphone XYZ",
+      "description": "A powerful and feature-rich smartphone.",
+      "regularPrice": 499.99,
+      "salePrice": 399.99,
+      "mainImg": "product_main_image.jpg",
+      "otherImgs": [
+        "product_image_01.jpg",
+        "product_image_02.jpg"
+      ],
+      "details": {
+        "texture": "Smooth",
+        "weight": "150g",
+        "size": "6.2 inches"
+      }
+
+    }
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
