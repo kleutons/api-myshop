@@ -11,7 +11,7 @@
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt01-1.jpg",
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt01-2.jpg"
       ],
-      "specs": "asds",
+      "specs": "Tradition Little Petra VB1 Poltrona Pele de Cordeiro Luar/ Nogueira/ Latão Edição Limitada | Oferecemos um desconto especial ao colocar este produto na cesta.",
       "details": {
         "texture": "Pele de Cordeiro",
         "weight": "15kg",
@@ -23,18 +23,181 @@
       "category": "kitchen",
       "description": "Torradeira Pop-Up",
       "regularPrice": 45,
-      "salePrice": ,
+      "salePrice": 0,
       "mainImg": "https://kleutons.github.io/api-myshop/img/2.jpg",
       "otherImgs": [
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt02-1.jpg",
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt02-2.jpg"
       ],
-      "specs": "adsad",
+      "specs": " O design quadrado arredondado da torradeira permite que ela se encaixe perfeitamente em uma parede ou dentro de um canto. Excelente para descongelar e com a distância perfeita do pão ao aquecedor para dar torradas crocantes com um centro macio e esponjoso.",
       "details": { 
         "texture": "Plástico",
         "weight": "3,5kg",
         "size": "20xm x 10cm"
       }
+    },
+    {
+      "id": 3,
+      "category": "lamp",
+      "title": "Lâmpada Azul Claro",
+      "regularPrice": 79,
+      "salePrice": 0,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/3.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt03-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt03-2.jpg"
+      ],
+      "specs": "O vaso de flores Verner Panton, projetado em 1968, foi originalmente planejado para a indústria de restaurantes e exposições de Verner Panton.",
+      "details": {
+        "texture": "Plástico",
+        "weight": "2kg",
+        "size": "15cm x 15cm"
+      }
+    },
+    {
+      "id": 4,
+      "category": "furniture",
+      "title": "Estante - 5 Compartimentos",
+      "regularPrice": 254,
+      "salePrice": 197,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/4.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt04-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt04-2.jpg"
+      ],
+      "specs": "As Estante de 5 Compartimentos são leves e duráveis ​​e podem ser usadas na horizontal ou na vertical. Projetadas com papel A4 em mente, as pastas angulares e fichários MUJI cabem perfeitamente dentro.",
+      "details": {
+        "texture": "Madeira",
+        "weight": "45kg",
+        "size": "250cm x 60cm"
+      }
+    },
+    {
+      "id": 5,
+      "category": "lamp",
+      "title": "Luz Moderna Dourada",
+      "regularPrice": 189,
+      "salePrice": 147,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/5.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt05-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt05-2.jpg"
+      ],
+      "specs": "Tom Dixon e FRONT criaram um pingente incrivelmente bonito, com um design completamente único. A lâmpada é feita com uma tecnologia especial de metalização que torna o visual completamente único. O primeiro de seu tipo. a lâmpada é transparente quando sua ligado e você pode ver o emocionante jogo de cores.",
+      "details": {
+        "texture": "Plástico",
+        "weight": "3kg",
+        "size": "20cm x 20cm"
+      }
+    },
+    {
+      "id": 6,
+      "category": "cosmetic",
+      "title": "Óleo Corporal 200ml",
+      "regularPrice": 67,
+      "salePrice": 0,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/6.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt06-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt06-2.jpg"
+      ],
+      "especificações": "Feito de óleos 100% vegetais com azeite de oliva como ingrediente principal, este óleo de limpeza é suave para a pele. Livre de fragrância, cores e óleos minerais, sem parabenos, sem álcool, testado contra alergias (nós não pode garantir que não causará alergia em nenhum usuário) * Modo de usar: Colocar uma pequena quantidade na palma da mão, e massagear no rosto para remover maquiagem e sujeira. Enxágue bem com água fria ou morna",
+      "details": {
+        "texture": "Líquido",
+        "weight": "200ml",
+        "size": "10cm x 5cm"
+      }
+    },
+    {
+      "id": 7,
+      "category": "lamp",
+      "title": "Lâmpada preta e branca",
+      "regularPrice": 220,
+      "salePrice": 0,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/7.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt07-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt07-2.jpg"
+      ],
+      "specs": "Conceito: Dot é inspirado no metal perfurado e nos padrões que a luz cria quando brilha através dos pequenos orifícios. O contraste entre o metal perfurado grosso e o vidro opala liso torna o Dot um pingente simples e significativo. Com seu expressão elegante, Brilhe, esteja a luz acesa ou apagada.",
+      "details": {
+        "texture": "Plástico",
+        "weight": "6kg",
+        "size": "20cm x 20cm"
+      }
+    },
+    {
+      "id": 8,
+      "category": "furniture",
+      "description": "Prateleira Preta Ash/Black",
+      "regularPrice": 115,
+      "salePrice": 0,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/8.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt08-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt08-2.jpg"
+      ],
+      "specs": "Projetado por Böttcher & Kayser, a Prateleira Ash/Black é uma estante de parede minimalista projetada com funcionalidade e estética em mente. Sem detalhes desnecessários e linhas limpas, esta coleção pendura de forma fácil e elegante na parede, criando calma e uma visão geral das coisas você quer colocar na prateleira.",
+      "details": {
+        "texture": "Madeira",
+        "weight": "10kg",
+        "size": "60cm x 20cm"
+      }
+    },
+    {
+      "id": 9,
+      "category": "furniture",
+      "title": "Jarra Cube Lolo Preta",
+      "regularPrice": 161,
+      "salePrice": 99,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/9.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt09-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt09-2.jpg"
+      ],
+      "specs": "Kubus Vase Lolo foi originalmente projetado por Søren Lassen em 2014, mas foi lançado em conexão com o aniversário de 10 anos de Lassens em 2018. O vaso é uma extensão natural e procurada da série, que já conta com os castiçais Kubus e o Kubus Bowl Bowl. Coloque-o sozinho ou em uma natureza morta, encha-o com flores arejadas e coloridas para um visual feminino ou deixe-o sozinho em toda a sua simplicidade e precisão.",
+      "details": {
+        "texture": "Cerâmica",
+        "weight": "12kg",
+        "size": "45cm x 15cm"
+      }
+    },
+    {
+      "id": 10,
+      "category": "chair",
+      "title": "Poltrona Tradicional",
+      "regularPrice": 89,
+      "salePrice": 0,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/10.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt10-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt10-2.jpg"
+      ],
+      "specs": "Conceito: a poltrona Boomerang da &Tradition é um design dinamarquês clássico com uma expressão moderna e minimalista. A cadeira foi projetada por Hvidt & Mølgaard em 1956 e, com suas almofadas elegantes e estrutura de madeira polida à mão, é uma Design nórdico que dá uma marca pessoal à casa.",
+      "details": {
+        "texture": "Madeira",
+        "weight": "8kg",
+        "size": "60cm x 40cm"
+      }
+    },
+    {
+      "id": 11,
+      "category": "lamp",
+      "title": "Lustre - Sol Pingente Preto",
+      "regularPrice": 160,
+      "salePrice": 0,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/11.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt11-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt11-2.jpg"
+      ],
+      "specs": "O Lustre Sol Pingente Preto foi desenhado por Bertrand Balas é um candeeiro de qualidade com um aspecto único e mágico. A série Here Comes The Sun tem uma expressão fantástica e especialmente quando ligada cria uma atmosfera muito especial na sala ele fica pendurado. O abajur se encaixa perfeitamente na mesa da sala de jantar, no balcão da cozinha e como iluminação da sala de estar . ",
+      "details": {
+        "texture": "Plástico",
+        "weight": "4kg",
+        "size": "20cm x 20cm"
+      }
     }
+    
   ]
 }
