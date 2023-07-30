@@ -3,54 +3,13 @@
     {
       "id": 1,
       "category": "chair",
-      "name": "Smartphone XYZ",
-      "description": "A powerful and feature-rich smartphone.",
-      "regularPrice": 499.99,
-      "salePrice": 399.99,
-      "mainImg": "product_main_image.jpg",
-      "otherImgs": [
-        "product_image_01.jpg",
-        "product_image_02.jpg"
-      ],
-      "details": {
-        "texture": "Smooth",
-        "weight": "150g",
-        "size": "6.2 inches"
-      }
-
-    },
-    {
-      "id": 2,
-      "category": "some comment",
-      "name": "Smartphone XYZ",
-      "description": "A powerful and feature-rich smartphone.",
-      "regularPrice": 499.99,
-      "salePrice": 399.99,
-      "mainImg": "product_main_image.jpg",
-      "otherImgs": [
-        "product_image_01.jpg",
-        "product_image_02.jpg"
-      ],
-      "details": {
-        "texture": "Smooth",
-        "weight": "150g",
-        "size": "6.2 inches"
-      }
-
-    }
-    
-  ],
-  "teste": [
-    {
-      "id": 1,
-      "category": "chair",
       "title": "Poltrona Pele de Cordeiro",
       "regularPrice": 986,
-      "salePrice": 399.99,
+      "salePrice": 699,
       "mainImg": "https://kleutons.github.io/api-myshop/img/1.jpg",
       "otherImgs": [
-        "https://kleutons.github.io/api-myshop/img/pt01-1.jpg",
-        "https://kleutons.github.io/api-myshop/img/pt01-2.jpg"
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt01-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt01-2.jpg"
       ],
       "specs": "Tradition Little Petra VB1 Poltrona Pele de Cordeiro Luar/ Nogueira/ Latão Edição Limitada | Oferecemos um desconto especial ao colocar este produto na cesta.",
       "details": {
@@ -64,6 +23,12 @@
       "category": "kitchen",
       "description": "Torradeira Pop-Up",
       "regularPrice": 45,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/2.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt02-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt02-2.jpg"
+      ],
       "specs": " O design quadrado arredondado da torradeira permite que ela se encaixe perfeitamente em uma parede ou dentro de um canto. Excelente para descongelar e com a distância perfeita do pão ao aquecedor para dar torradas crocantes com um centro macio e esponjoso.",
       "details": { 
         "texture": "Plástico",
@@ -76,6 +41,12 @@
       "category": "lamp",
       "title": "Lâmpada Azul Claro",
       "regularPrice": 79,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/3.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt03-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt03-2.jpg"
+      ],
       "specs": "O vaso de flores Verner Panton, projetado em 1968, foi originalmente planejado para a indústria de restaurantes e exposições de Verner Panton.",
       "details": {
         "texture": "Plástico",
@@ -88,6 +59,12 @@
       "category": "furniture",
       "title": "Estante - 5 Compartimentos",
       "regularPrice": 254,
+      "salePrice": 197,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/4.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt04-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt04-2.jpg"
+      ],
       "specs": "As Estante de 5 Compartimentos são leves e duráveis ​​e podem ser usadas na horizontal ou na vertical. Projetadas com papel A4 em mente, as pastas angulares e fichários MUJI cabem perfeitamente dentro.",
       "details": {
         "texture": "Madeira",
@@ -100,6 +77,12 @@
       "category": "lamp",
       "title": "Luz Moderna Dourada",
       "regularPrice": 189,
+      "salePrice": 147,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/5.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt05-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt05-2.jpg"
+      ],
       "specs": "Tom Dixon e FRONT criaram um pingente incrivelmente bonito, com um design completamente único. A lâmpada é feita com uma tecnologia especial de metalização que torna o visual completamente único. O primeiro de seu tipo. a lâmpada é transparente quando sua ligado e você pode ver o emocionante jogo de cores.",
       "details": {
         "texture": "Plástico",
@@ -112,6 +95,12 @@
       "category": "cosmetic",
       "title": "Óleo Corporal 200ml",
       "regularPrice": 67,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/6.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt06-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt06-2.jpg"
+      ],
       "especificações": "Feito de óleos 100% vegetais com azeite de oliva como ingrediente principal, este óleo de limpeza é suave para a pele. Livre de fragrância, cores e óleos minerais, sem parabenos, sem álcool, testado contra alergias (nós não pode garantir que não causará alergia em nenhum usuário) * Modo de usar: Colocar uma pequena quantidade na palma da mão, e massagear no rosto para remover maquiagem e sujeira. Enxágue bem com água fria ou morna",
       "details": {
         "texture": "Líquido",
@@ -124,6 +113,12 @@
       "category": "lamp",
       "title": "Lâmpada preta e branca",
       "regularPrice": 220,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/7.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt07-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt07-2.jpg"
+      ],
       "specs": "Conceito: Dot é inspirado no metal perfurado e nos padrões que a luz cria quando brilha através dos pequenos orifícios. O contraste entre o metal perfurado grosso e o vidro opala liso torna o Dot um pingente simples e significativo. Com seu expressão elegante, Brilhe, esteja a luz acesa ou apagada.",
       "details": {
         "texture": "Plástico",
@@ -136,6 +131,12 @@
       "category": "furniture",
       "description": "Prateleira Preta Ash/Black",
       "regularPrice": 115,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/8.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt08-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt08-2.jpg"
+      ],
       "specs": "Projetado por Böttcher & Kayser, a Prateleira Ash/Black é uma estante de parede minimalista projetada com funcionalidade e estética em mente. Sem detalhes desnecessários e linhas limpas, esta coleção pendura de forma fácil e elegante na parede, criando calma e uma visão geral das coisas você quer colocar na prateleira.",
       "details": {
         "texture": "Madeira",
@@ -148,6 +149,12 @@
       "category": "furniture",
       "title": "Jarra Cube Lolo Preta",
       "regularPrice": 161,
+      "salePrice": 99,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/9.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt09-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt09-2.jpg"
+      ],
       "specs": "Kubus Vase Lolo foi originalmente projetado por Søren Lassen em 2014, mas foi lançado em conexão com o aniversário de 10 anos de Lassens em 2018. O vaso é uma extensão natural e procurada da série, que já conta com os castiçais Kubus e o Kubus Bowl Bowl. Coloque-o sozinho ou em uma natureza morta, encha-o com flores arejadas e coloridas para um visual feminino ou deixe-o sozinho em toda a sua simplicidade e precisão.",
       "details": {
         "texture": "Cerâmica",
@@ -160,6 +167,12 @@
       "category": "chair",
       "title": "Poltrona Tradicional",
       "regularPrice": 89,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/10.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt10-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt10-2.jpg"
+      ],
       "specs": "Conceito: a poltrona Boomerang da &Tradition é um design dinamarquês clássico com uma expressão moderna e minimalista. A cadeira foi projetada por Hvidt & Mølgaard em 1956 e, com suas almofadas elegantes e estrutura de madeira polida à mão, é uma Design nórdico que dá uma marca pessoal à casa.",
       "details": {
         "texture": "Madeira",
@@ -172,6 +185,12 @@
       "category": "lamp",
       "title": "Lustre - Sol Pingente Preto",
       "regularPrice": 160,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/11.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt11-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt11-2.jpg"
+      ],
       "specs": "O Lustre Sol Pingente Preto foi desenhado por Bertrand Balas é um candeeiro de qualidade com um aspecto único e mágico. A série Here Comes The Sun tem uma expressão fantástica e especialmente quando ligada cria uma atmosfera muito especial na sala ele fica pendurado. O abajur se encaixa perfeitamente na mesa da sala de jantar, no balcão da cozinha e como iluminação da sala de estar . ",
       "details": {
         "texture": "Plástico",
@@ -184,6 +203,12 @@
       "category": "lamp",
       "title": "Lâmpada Dourada Simples",
       "regularPrice": 220,
+      "salePrice": 127,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/12.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt12-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt12-2.jpg"
+      ],
       "specs": "Verner Panton Flowerpot, projetado em 1968, foi originalmente concebido para a indústria hoteleira e exibições e showrooms de Verner Panton. A lâmpada tornou-se popular em residências particulares e, devido ao seu design elegante e muitas opções de cores, tornou-se um grande retorno nos últimos anos.",
       "details": {
         "texture": "Plástico",
@@ -196,6 +221,12 @@
       "category": "cosmetic",
       "description": "Almofadas para rosto de algodão 180",
       "regularPrice": 33,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/13.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt13-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt13-2.jpg"
+      ],
       "specs": "Almofadas para limpesa de rosto foram feitas de algodão macio e não branqueado. São feitas no Japão com 100% algodão.",
       "details": {
         "texture": "Algodão",
@@ -208,6 +239,12 @@
       "category": "chair",
       "title": "Cadeira Espanhola de Carvalho",
       "regularPrice": 520,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/14.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt14-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt14-2.jpg"
+      ],
       "specs": "Quando se fala em Børge Mogensen, a Cadeira Espanhola é provavelmente um dos primeiros designs que você pensaria, o que faz sentido, pois também é um de seus produtos mais reconhecidos em todo o mundo.",
       "details": {
         "texture": "Madeira",
@@ -220,6 +257,12 @@
       "category": "chair",
       "title": "Poltrona Copenhague",
       "regularPrice": 330,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/15.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt15-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt15-2.jpg"
+      ],
       "specs": "Conceito: a série Hyg do dinamarquês Normann Copenhagen é uma série de cadeiras baseadas na palavra dinamarquesa Hygge. O designer Simon Legald tentou incorporar o significado da palavra em torno de segurança, calor e conveniência em uma série de móveis. Isso se expressa nas finas formas orgânicas e nas curvas generosas que proporcionam alto grau de conforto ao sentar e bem-estar nas cadeiras.",
       "details": {
         "texture": "Madeira",
@@ -232,6 +275,12 @@
       "category": "electronic",
       "title": "Luminária Mini Dark - Easy Wall",
       "regularPrice": 120,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/16.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt16-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt16-2.jpg"
+      ],
       "specs": "A Easy Mini W75 da Antidark faz jus ao seu nome. Design simples, luz confortável, fácil de ajustar. O Easy Wall Light tornou mais fácil para o usuário manusear, bem, tudo! A lâmpada Easy pode girar 360 graus e ser inclinado. Um candeeiro ideal que pode ser colocado em ligação com outros candeeiros para obter luz em todos os cantos da divisão. Além disso, o candeeiro pode funcionar como aplique de parede ou de tecto",
       "details": {
         "texture": "Metal",
@@ -244,6 +293,12 @@
       "category": "lamp",
       "title": "Lâmpada de mesa",
       "regularPrice": 75,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/17.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt17-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt17-2.jpg"
+      ],
       "specs": "A lâmpada também se tornou popular em residências particulares e voltou especialmente nos últimos anos. Isso se deve principalmente ao design elegante da lâmpada e às muitas opções de cores que a fazem caber em qualquer lugar.",
       "details": {
         "texture": "Metal",
@@ -256,6 +311,12 @@
       "category": "lamp",
       "title": "Lâmpada de parede preta fosca",
       "regularPrice": 175,
+      "salePrice": 99,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/18.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt18-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt18-2.jpg"
+      ],
       "specs": "Oferta única Oferecemos um desconto especial quando você coloca este produto na cesta. *Aplica-se apenas a produtos específicos.",
       "details": {
         "texture": "Metal",
@@ -268,6 +329,12 @@
       "category": "chair",
       "title": "Cadeira Dark - Confortável",
       "regularPrice": 119,
+      "salePrice": ,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/19.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt19-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt19-2.jpg"
+      ],
       "specs": "Sum é uma série desenhada pelo designer dinamarquês Simon Legald, que é o epítome da elegância moderna. Elegantes e resolutos como a ponta de uma asa, os apoios de braços estendem-se de forma convidativa, como se quisessem abraçá-lo no o espaço aconchegante e aconchegante da poltrona.",
       "details": {
         "texture": "Material confortável",
@@ -279,7 +346,13 @@
       "id": 20,
       "category": "cosmetic",
       "title": "Óleo Corporal 50ml",
-      "regularPrice": 45,
+      "regularPrice": 95,
+      "salePrice": 45,
+      "mainImg": "https://kleutons.github.io/api-myshop/img/20.jpg",
+      "otherImgs": [
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt20-1.jpg",
+        "https://kleutons.github.io/api-myshop/img/otherImgs/pt20-2.jpg"
+      ],
       "especificações": "Feito de óleos 100% vegetais com azeite de oliva como ingrediente principal, este óleo de limpeza é suave para a pele. Livre de fragrância, cores e óleos minerais, sem parabenos, sem álcool, testado contra alergias (nós não pode garantir que não causará alergia em nenhum usuário) * Modo de usar: Pegue uma pequena quantidade na palma da mão e massageie no rosto para remover maquiagem e sujeira. Enxágue bem com água fria ou morna." ,
       "details": {
         "texture": "Líquido",
