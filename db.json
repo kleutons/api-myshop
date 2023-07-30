@@ -11,7 +11,7 @@
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt01-1.jpg",
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt01-2.jpg"
       ],
-      "specs": "Tradition Little Petra VB1 Poltrona Pele de Cordeiro Luar/ Nogueira/ Latão Edição Limitada | Oferecemos um desconto especial ao colocar este produto na cesta.",
+      "specs": "A tradicional e espetacular Poltrona Little Petra VB1, feita com Pele de Cordeiro Luar/ Nogueira. Nessa Edição Limitada Oferecemos um desconto especial ao colocar este produto no carrinho, aproveite hoje mesmo.",
       "details": {
         "texture": "Pele de Cordeiro",
         "weight": "15kg",
@@ -29,7 +29,7 @@
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt02-1.jpg",
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt02-2.jpg"
       ],
-      "specs": " O design quadrado arredondado da torradeira permite que ela se encaixe perfeitamente em uma parede ou dentro de um canto. Excelente para descongelar e com a distância perfeita do pão ao aquecedor para dar torradas crocantes com um centro macio e esponjoso.",
+      "specs": "O design minimalista quadrado e cantos arredondado da torradeira permite que ela se encaixe perfeitamente em uma parede ou dentro de um canto. Excelente para descongelar e com a distância perfeita do pão ao aquecedor para dar torradas crocantes com um centro macio e dourado.",
       "details": { 
         "texture": "Plástico",
         "weight": "3,5kg",
@@ -39,7 +39,7 @@
     {
       "id": 3,
       "category": "lamp",
-      "title": "Lâmpada Azul Claro",
+      "title": "Lâmpada Azul Claro / Verde",
       "regularPrice": 79,
       "salePrice": 0,
       "mainImg": "https://kleutons.github.io/api-myshop/img/3.jpg",
@@ -47,7 +47,7 @@
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt03-1.jpg",
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt03-2.jpg"
       ],
-      "specs": "O vaso de flores Verner Panton, projetado em 1968, foi originalmente planejado para a indústria de restaurantes e exposições de Verner Panton.",
+      "specs": "A Lâmpada Panton, projetado em 1968, foi originalmente planejado para a indústria de restaurantes e exposições de Verner Panton, é o perfeito estilo e design para seu lar.",
       "details": {
         "texture": "Plástico",
         "weight": "2kg",
