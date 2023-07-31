@@ -21,7 +21,7 @@
     {
       "id": 2,
       "category": "kitchen",
-      "description": "Torradeira Pop-Up",
+      "title": "Torradeira Pop-Up",
       "regularPrice": 45,
       "salePrice": 0,
       "mainImg": "https://kleutons.github.io/api-myshop/img/2.jpg",
@@ -129,7 +129,7 @@
     {
       "id": 8,
       "category": "furniture",
-      "description": "Prateleira Preta Ash/Black",
+      "title": "Prateleira Preta Ash/Black",
       "regularPrice": 115,
       "salePrice": 0,
       "mainImg": "https://kleutons.github.io/api-myshop/img/8.jpg",
@@ -219,7 +219,7 @@
     {
       "id": 13,
       "category": "cosmetic",
-      "description": "Almofadas para rosto de algodão 180",
+      "title": "Almofadas para rosto de algodão 180",
       "regularPrice": 33,
       "salePrice": 0,
       "mainImg": "https://kleutons.github.io/api-myshop/img/13.jpg",
