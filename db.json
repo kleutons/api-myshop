@@ -101,7 +101,7 @@
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt06-1.jpg",
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt06-2.jpg"
       ],
-      "especificações": "Feito de óleos 100% vegetais com azeite de oliva como ingrediente principal, este óleo de limpeza é suave para a pele. Livre de fragrância, cores e óleos minerais, sem parabenos, sem álcool, testado contra alergias (nós não pode garantir que não causará alergia em nenhum usuário) * Modo de usar: Colocar uma pequena quantidade na palma da mão, e massagear no rosto para remover maquiagem e sujeira. Enxágue bem com água fria ou morna",
+      "specs":: "Feito de óleos 100% vegetais com azeite de oliva como ingrediente principal, este óleo de limpeza é suave para a pele. Livre de fragrância, cores e óleos minerais, sem parabenos, sem álcool, testado contra alergias (nós não pode garantir que não causará alergia em nenhum usuário) * Modo de usar: Colocar uma pequena quantidade na palma da mão, e massagear no rosto para remover maquiagem e sujeira. Enxágue bem com água fria ou morna",
       "details": {
         "texture": "Líquido",
         "weight": "200ml",
@@ -353,7 +353,7 @@
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt20-1.jpg",
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt20-2.jpg"
       ],
-      "especificações": "Feito de óleos 100% vegetais com azeite de oliva como ingrediente principal, este óleo de limpeza é suave para a pele. Livre de fragrância, cores e óleos minerais, sem parabenos, sem álcool, testado contra alergias (nós não pode garantir que não causará alergia em nenhum usuário) * Modo de usar: Pegue uma pequena quantidade na palma da mão e massageie no rosto para remover maquiagem e sujeira. Enxágue bem com água fria ou morna." ,
+      "specs":: "Feito de óleos 100% vegetais com azeite de oliva como ingrediente principal, este óleo de limpeza é suave para a pele. Livre de fragrância, cores e óleos minerais, sem parabenos, sem álcool, testado contra alergias (nós não pode garantir que não causará alergia em nenhum usuário) * Modo de usar: Pegue uma pequena quantidade na palma da mão e massageie no rosto para remover maquiagem e sujeira. Enxágue bem com água fria ou morna." ,
       "details": {
         "texture": "Líquido",
         "weight": "50ml",
