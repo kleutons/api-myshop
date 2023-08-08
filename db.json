@@ -2,6 +2,7 @@
   "products": [
     {
       "id": 1,
+      "idStripe": "price_1NcdFDA5Jtlt6cIO0QknMM7a",
       "category": "chair",
       "title": "Poltrona Pele de Cordeiro",
       "regularPrice": 699,
@@ -20,6 +21,7 @@
     },
     {
       "id": 2,
+      "idStripe": "price_1NcdGLA5Jtlt6cIOiArYiBWN",
       "category": "kitchen",
       "title": "Torradeira Pop-Up",
       "regularPrice": 45,
@@ -38,6 +40,7 @@
     },
     {
       "id": 3,
+      "idStripe": "price_1NceNoA5Jtlt6cIObgrj3kKn",
       "category": "lamp",
       "title": "Lâmpada Azul Claro / Verde",
       "regularPrice": 79,
@@ -56,6 +59,7 @@
     },
     {
       "id": 4,
+      "idStripe": "price_1NceOaA5Jtlt6cIO4uvw2G4r",
       "category": "furniture",
       "title": "Estante - 5 Compartimentos",
       "regularPrice": 197,
@@ -74,6 +78,7 @@
     },
     {
       "id": 5,
+      "idStripe": "price_1NcePBA5Jtlt6cIO4k3J63OM",
       "category": "lamp",
       "title": "Luz Moderna Dourada",
       "regularPrice": 89,
@@ -92,6 +97,7 @@
     },
     {
       "id": 6,
+      "idStripe": "price_1NcePaA5Jtlt6cIOF8PWX9rs",
       "category": "cosmetic",
       "title": "Óleo Corporal 200ml",
       "regularPrice": 67,
@@ -110,6 +116,7 @@
     },
     {
       "id": 7,
+      "idStripe": "price_1NceQ5A5Jtlt6cIOmcVFlHh6",
       "category": "lamp",
       "title": "Lâmpada preta e branca",
       "regularPrice": 220,
@@ -128,6 +135,7 @@
     },
     {
       "id": 8,
+      "idStripe": "price_1NceQXA5Jtlt6cIOIkZbLjjL",
       "category": "furniture",
       "title": "Prateleira Preta Ash/Black",
       "regularPrice": 115,
@@ -146,6 +154,7 @@
     },
     {
       "id": 9,
+      "idStripe": "price_1NceS6A5Jtlt6cIO9M7VAcFj",
       "category": "furniture",
       "title": "Jarra Cube Lolo Preta",
       "regularPrice": 87,
@@ -164,6 +173,7 @@
     },
     {
       "id": 10,
+      "idStripe": "price_1NceSbA5Jtlt6cIOjbBKhHPG",
       "category": "chair",
       "title": "Poltrona Tradicional",
       "regularPrice": 89,
@@ -182,6 +192,7 @@
     },
     {
       "id": 11,
+      "idStripe": "price_1NceT6A5Jtlt6cIOlTWixOdo",
       "category": "lamp",
       "title": "Lustre - Sol Pingente Preto",
       "regularPrice": 160,
@@ -200,6 +211,7 @@
     },
     {
       "id": 12,
+      "idStripe": "price_1NceTbA5Jtlt6cIOjD7yrav0",
       "category": "lamp",
       "title": "Lâmpada Dourada Simples",
       "regularPrice": 220,
@@ -218,6 +230,7 @@
     },
     {
       "id": 13,
+      "idStripe": "price_1NceTuA5Jtlt6cIO5J6UocmW",
       "category": "cosmetic",
       "title": "Almofadas para rosto de algodão 180",
       "regularPrice": 33,
@@ -236,6 +249,7 @@
     },
     {
       "id": 14,
+      "idStripe": "price_1NceUJA5Jtlt6cIOfos2t9wG",
       "category": "chair",
       "title": "Cadeira Espanhola de Carvalho",
       "regularPrice": 520,
@@ -254,6 +268,7 @@
     },
     {
       "id": 15,
+      "idStripe": "price_1NceUdA5Jtlt6cIOKoltj1Tu",
       "category": "chair",
       "title": "Poltrona Copenhague",
       "regularPrice": 330,
@@ -272,6 +287,7 @@
     },
     {
       "id": 16,
+      "idStripe": "price_1NceV3A5Jtlt6cIOB2ar5LUr",
       "category": "electronic",
       "title": "Luminária Mini Dark - Easy Wall",
       "regularPrice": 120,
@@ -290,6 +306,7 @@
     },
     {
       "id": 17,
+      "idStripe": "price_1NceVOA5Jtlt6cIOwQiw4TrM",
       "category": "lamp",
       "title": "Lâmpada de mesa",
       "regularPrice": 75,
@@ -308,10 +325,11 @@
     },
     {
       "id": 18,
+      "idStripe": "price_1NceVkA5Jtlt6cIOsK3JMWhS",
       "category": "lamp",
       "title": "Lâmpada de parede preta fosca",
-      "regularPrice": 79,
-      "originalPrice": 175,
+      "regularPrice": 175,
+      "originalPrice": 79,
       "mainImg": "https://kleutons.github.io/api-myshop/img/18.jpg",
       "otherImgs": [
         "https://kleutons.github.io/api-myshop/img/otherImgs/pt18-1.jpg",
@@ -326,6 +344,7 @@
     },
     {
       "id": 19,
+      "idStripe": "price_1NceW9A5Jtlt6cIONOg4PuKS",
       "category": "chair",
       "title": "Cadeira Dark - Confortável",
       "regularPrice": 119,
@@ -344,6 +363,7 @@
     },
     {
       "id": 20,
+      "idStripe": "price_1NceWZA5Jtlt6cIONI9dY295",
       "category": "cosmetic",
       "title": "Óleo Corporal 50ml",
       "regularPrice": 45,
